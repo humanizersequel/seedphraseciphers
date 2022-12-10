@@ -8,6 +8,7 @@ The BIP39 standard —— encoding wallet seeds as a series of words, usually 12
 
 Pure, *boring*, mathematics.
 
-The words used in these mnemonics have semantic value, history, and context. By making seed phrases compatible with language, we open the possibility for their interface with a "complex mechanism that can be grasped only through reflection" (Saussure, 1916) —— locally immutable but destined for sweeping change on a long enough time scale, impossible for man to master in its totality. <img width="215" alt="Screen Shot 2022-12-10 at 1 04 02 PM" src="https://user-images.githubusercontent.com/70870763/206869086-a4c06877-8962-4311-9c29-466339d3ed8e.png">
+The words used in these mnemonics have semantic value, history, and context. By making seed phrases compatible with language, we open the possibility for their interface with a "complex mechanism that can be grasped only through reflection" (Saussure, 1916) —— locally immutable but destined for sweeping change on a long enough time scale, impossible for man to master in its totality. 
+<img width="215" alt="Screen Shot 2022-12-10 at 1 04 02 PM" src="https://user-images.githubusercontent.com/70870763/206869086-a4c06877-8962-4311-9c29-466339d3ed8e.png">
 
 The implication is obvious: seed phrases disguised in eclectic riddles and contingent references. A dense thicket of abstraction bounded by politics and geography, an escalating series of increasing impracticalities for their own sake. Secret societies, planetary smart-contract cults. Practical? Not at all, but it's pretty fun. This repo is for collecting non-mathematical methods of seed phrase encryption.
